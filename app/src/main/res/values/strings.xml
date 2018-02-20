@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MathildApp</string>
+    <string name="button4">ACHIEVEEE !</string>
+    <string name="text_header">Today I\'d like to ...</string>
+    <string name="button1">Count!</string>
+    <string name="button2">Meditate ...</string>
+    <string name="button3">See nice pictures.</string>
+    <string name="button5">Do nothing!</string>
+    <string name="text_toast">Counting counting</string>
+    <string name="text_buttonmore">More!</string>
+    <string name="count_value_initial">0</string>
+    <string name="text_achieve">Have a good day ! And remember : Don\'t get ready, stay ready (ChiChi DeVayne)</string>
+    <string name="edittext">Type a message here</string>
+    <string name="buttonsend">Send</string>
+    <string name="text_received">Message received</string>
+</resources>
